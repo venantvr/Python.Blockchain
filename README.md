@@ -58,3 +58,7 @@ To download the full code file see : https://github.com/jamesdhope/blockchain
 [4] https://towardsdatascience.com/building-a-minimal-blockchain-in-python-4f2e9934101d
 
 [5] Omer Goldberg, https://hackernoon.com/building-a-blockchain-the-grey-paper-5be456018040
+
+## Stack
+
+[![Stack](https://skillicons.dev/icons?i=py,flask&theme=dark)](https://skillicons.dev)
